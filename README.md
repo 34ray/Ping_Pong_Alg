@@ -1,3 +1,3 @@
 # Ping_Pong_Alg
 
-Funny game, i make it, in the Georgia.
+Funny game, I made it in Russia
